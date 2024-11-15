@@ -1,0 +1,4 @@
+Modulation,BER,SNR,Spectral Efficiency
+I(t) * np.cos(2 * np.pi * f_c * t) - Q(t) * np.sin(2 * np.pi * f_c * t) + (A * np.cos(2 * np.pi * f_c * t + phi)) + (A * np.cos(2 * np.pi * f_c * t + phi)) + (A * np.cumsum(m)),0.03745401188473625,19.50714306409916,18.802899059265922
+I(t) * np.cos(2 * np.pi * f_c * t) - Q(t) * np.sin(2 * np.pi * f_c * t) + (A * np.cos(2 * np.pi * f_c * t)) + (A * np.pi * d(t) * np.sin(2 * np.pi * f_c * t)) + (A * np.cos()),0.0731993941811405,15.986584841970366,14.89619257022434
+I(t) * np.cos(2 * np.pi * f_c * t) - Q(t) * np.sin(2 * np.pi * f_c * t) + phi + (A * np.sin(2 * np.pi * f_c * t)) + (A * np.cos(2 * np.pi * f_c * t) / Q(t) * np.pi * 0) / Q,0.015601864044243652,11.559945203362027,11.382359182887862

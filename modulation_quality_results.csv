@@ -1,0 +1,51 @@
+Label,SNR (dB)
+Combined_Code-Division Multiple Access_128QAM,0.0
+Combined_FSK_Hamming,0.0
+Combined_Combined AM-FM_OFDM,0.0
+Combined_8-PSK_Single Sideband AM,0.0
+Combined_Double Sideband AM_Vestigial Sideband AM,0.0
+Combined_Frequency Hopping Spread Spectrum_OFDM,0.0
+Combined_FSK_PM,0.0
+Combined_FM_Multi-Carrier CDMA,0.0
+Combined_Multi-Carrier CDMA_MSK,0.0
+Combined_64QAM_32-PSK,0.0
+Combined_FSK_Frequency Hopping Spread Spectrum,0.0
+Combined_8-PSK_FSK,0.0
+Combined_8-QAM_PM,0.0
+Combined_32-PSK_CPM,0.0
+Combined_FCM_128QAM,0.0
+Combined_FCM_QAM,0.0
+Combined_PM_OFDM,0.0
+Combined_16-QAM_PM,0.0
+Combined_256QAM_AM,0.0
+Combined_Vestigial Sideband AM_QPSK,0.0
+Combined_DPSK_Pulse Width Modulation (PWM),0.0
+Combined_QPSK_128QAM,0.0
+Combined_Combined AM-FM_8-PSK,0.0
+Combined_QAM_Delta Modulation,0.0
+Combined_Spectral Amplitude Coding_PM,0.0
+Combined_FM_Chirp,0.0
+Combined_GMSK_Double Sideband AM,0.0
+Combined_BFSK_Single Sideband AM,0.0
+Combined_DPSK-BPSK_16-QAM,0.0
+Combined_64QAM_Chirp,0.0
+Combined_Code-Division Multiple Access_256QAM,0.0
+Combined_Pulse Position Modulation_DPSK-QPSK,0.0
+Combined_FCM_8-PSK,0.0
+Combined_QPSK_ASK,0.0
+Combined_DPSK_64-PSK,0.0
+Combined_FCM_PM,0.0
+Combined_PCM_Multi-Carrier CDMA,0.0
+Combined_Frequency Hopping Spread Spectrum_CPM,0.0
+Combined_Vestigial Sideband AM_Chirp,0.0
+Combined_64-PSK_BPSK,0.0
+Combined_PM_DPSK,0.0
+Combined_DPSK-QPSK_Spectral Amplitude Coding,0.0
+Combined_32-PSK_Double Sideband AM,0.0
+Combined_Delta Modulation_FCM,0.0
+Combined_256QAM_GMSK,0.0
+Combined_QAM_AM,0.0
+Combined_DPSK-QPSK_QPSK,0.0
+Combined_Frequency Hopping Spread Spectrum_Delta Modulation,0.0
+Combined_AM_Spectral Amplitude Coding,0.0
+Combined_Combined AM-FM_AM,0.0
